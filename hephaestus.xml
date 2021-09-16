@@ -1,7 +1,7 @@
 <root>
 <mobilebase>
 	<cadEngine>
-		<git>https://github.com/Gregory-Marshall/HephaestusArm2.git</git>
+		<git>https://github.com/Hephaestus-Arm/HephaestusArm2.git</git>
 		<file>cadGenHephaestusArm.groovy</file>
 	</cadEngine>
 	<driveEngine>
@@ -14,7 +14,7 @@
 
 <name>HephaestusArmLimbOne</name>
 	<cadEngine>
-		<git>https://github.com/Gregory-Marshall/HephaestusArm2.git</git>
+		<git>https://github.com/Hephaestus-Arm/HephaestusArm2.git</git>
 		<file>cadGenHephaestusArm.groovy</file>
 	</cadEngine>
 	<kinematics>
@@ -189,7 +189,7 @@
 
 		<mobilebase>
 	<cadEngine>
-		<git>https://github.com/Gregory-Marshall/HephaestusArm2.git</git>
+		<git>https://github.com/Hephaestus-Arm/HephaestusArm2.git</git>
 		<file>cadGenHand.groovy</file>
 	</cadEngine>
 	<driveEngine>
@@ -202,7 +202,7 @@
 
 <name>Hand</name>
 	<cadEngine>
-		<git>https://github.com/Gregory-Marshall/HephaestusArm2.git</git>
+		<git>https://github.com/Hephaestus-Arm/HephaestusArm2.git</git>
 		<file>cadGenHand.groovy</file>
 	</cadEngine>
 	<kinematics>
